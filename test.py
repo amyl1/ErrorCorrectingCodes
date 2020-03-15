@@ -54,7 +54,7 @@ with open('test.txt', 'w') as outfile:
     outfile.write(title)
 
 
-    for i in range(8):
+    for i in range(3):
 
         title = ['\n \nPart 0. decimalToVector(i,l)\n\n',
                 '\n \nPart 1. repetitionEncoder(m,n)\n\n',
